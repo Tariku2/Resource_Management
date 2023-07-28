@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web21">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/configurations/tomcat9x/webapps/host-manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/configurations/tomcat9x/webapps/host-manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web20">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/eshop/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/docs/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/eshop/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/docs" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web23">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/docs/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/docs" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web22">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/host-manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/host-manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/eshop/target/cargo/configurations/tomcat9x/webapps/cargocpc/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/eshop/target/cargo/configurations/tomcat9x/webapps/cargocpc" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/examples/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/examples" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web16">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/eshop/target/cargo/configurations/tomcat9x/webapps/host-manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/eshop/target/cargo/configurations/tomcat9x/webapps/host-manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web15">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/configurations/tomcat9x/webapps/manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/configurations/tomcat9x/webapps/manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web18">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/key-management-system/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/key-management-system/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map />
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/key-management-system/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/key-management-system/target/classes/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web17">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/eshop/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/docs/appdev/sample/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/eshop/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/docs/appdev/sample/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web19">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/eshop/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/ROOT/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/eshop/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/ROOT" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web5">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/ROOT/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/ROOT" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web4">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/eshop/target/cargo/configurations/tomcat9x/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/eshop/target/cargo/configurations/tomcat9x/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web7">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/eshop/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/eshop/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web10">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/eshop/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/host-manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/eshop/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/host-manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web6">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web12">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/eshop/target/cargo/configurations/tomcat9x/webapps/manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/eshop/target/cargo/configurations/tomcat9x/webapps/manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web9">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/configurations/tomcat9x/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/configurations/tomcat9x/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web8">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/docs/appdev/sample/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/docs/appdev/sample/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web11">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web14">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/eshop/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/eshop/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web13">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/configurations/tomcat9x/webapps/cargocpc/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/icrnjak-management-of-attendance-backend-adf69525d6a7/target/cargo/configurations/tomcat9x/webapps/cargocpc" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../Intelij-Workspace/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../Intelij-Workspace/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../Intelij-Workspace/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../Intelij-Workspace/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../Intelij-Workspace/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../Intelij-Workspace/libs" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../Intelij-Workspace/proguard_logs" />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/eshop/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/examples/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/eshop/target/cargo/installs/tomcat-9.0.43/apache-tomcat-9.0.43/webapps/examples" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Java8Demo/Java8Demo-ng-app/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/Java8Demo/Java8Demo-ng-app/tmp" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
